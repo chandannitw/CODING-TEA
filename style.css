@@ -256,4 +256,13 @@ input[type="text"]
 {
     background-color: green;
 }
+.bottom-box
+{
+    background-color: silver;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+}
+
+
 
